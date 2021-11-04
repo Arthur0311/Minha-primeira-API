@@ -8,3 +8,6 @@
  4. Servir API
  5. Habilitar o CORS `Responsável pelo controle de acesso a api`
  6. Habilitar o nodemon para reiniciar o server
+
+## Consumir API no front-end
+
