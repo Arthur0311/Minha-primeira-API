@@ -3,12 +3,12 @@ const app = express()
 
 var db = [
     {
-        "name": "Arthur",  
-        "email": "arthur@gmail.com"
+        name: "Arthur",  
+        email: "arthur@gmail.com"
     },
     {
-        "name" : "Lucas",
-        "email": "lucas@gmail.com"
+        name : "Lucas",
+        email: "lucas@gmail.com"
 
     }
 ]
