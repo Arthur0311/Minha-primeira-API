@@ -1,5 +1,8 @@
+const cors = require('cors')
 const express = require('express')
 const app = express()
+
+app.use(cors())
 
 var db = [
     {
@@ -18,4 +21,4 @@ app.get('/', (req, res) =>{
     return res.json(db)
 })
 
-app.listen('3000')
+app.listen('4567')
