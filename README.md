@@ -11,5 +11,12 @@
 
 ## Consumir API no front-end
 1. Consumir API criada através da fecth api 
+2. Utilizar try/catch
+3. Mostrar resultado na tela
+
+## Consumir API no back-end
+1. Utilizar jsonplaceholder
+2. Usar axios
+3. Usar try/catch
 
 
