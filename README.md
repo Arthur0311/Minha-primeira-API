@@ -1,5 +1,5 @@
 # Minha primeira API
- API que sera consumida no front-end e no back-end
+ API que será consumida no front-end e no back-end
 
 ## Criar a API
  1. Iniciar o projeto (Criando um package json) `npm init -y`
@@ -10,4 +10,6 @@
  6. Habilitar o nodemon para reiniciar o server
 
 ## Consumir API no front-end
+1. Consumir API criada através da fecth api 
+
 

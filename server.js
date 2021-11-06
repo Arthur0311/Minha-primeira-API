@@ -13,7 +13,13 @@ var db = [
         name : "Lucas",
         email: "lucas@gmail.com"
 
+    },
+    {
+        name : "João",
+        email: "jao@gmail.com"
+
     }
+
 ]
 
 

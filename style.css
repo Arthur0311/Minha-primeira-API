@@ -1,0 +1,14 @@
+li {
+    font-size: medium;
+    color: blueviolet;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+div {
+    margin-top: 200px;
+    margin-bottom: auto;
+    margin-right: 200px;
+    margin-left: 200px;
+    height: fit-content;
+}
