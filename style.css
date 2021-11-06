@@ -1,11 +1,14 @@
-li {
+p {
     font-size: medium;
     color: blueviolet;
+    margin-top: auto;
 }
 
 div {
     margin-top: 200px;
-    margin-left: 50%;
-    margin-right: auto;
-
+    width: 400px;
+    height: fit-content;
+    margin: auto;
+    text-align: center;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
 }

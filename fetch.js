@@ -19,7 +19,7 @@ function showData (users) {
     let output = ''
 
     for (let user of users) {
-        output += `<li>${user.name}</li>`
+        output += `<p>${user.name} (${user.email})</p>`
     }
 
     document.querySelector('div').innerHTML = output
